@@ -1,0 +1,1 @@
+新版manimlib，解决了制表符和空格显示问题，增加了mobject:paragraph
